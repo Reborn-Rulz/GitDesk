@@ -2,6 +2,6 @@
 
 Summary of stuff here
 
-#Set up for this project
+# Set up for this project
 
-Things here
+Things here. Add Info.
